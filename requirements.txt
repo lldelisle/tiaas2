@@ -4,7 +4,7 @@ django-bootstrap3==21.2
 django-countries==7.5.1
 django-prometheus==2.2.0
 gunicorn==22.0.0
-psycopg2-binary==2.9.6
+psycopg2-binary==2.9.13
 pycryptodome==3.19.1
 factory_boy
 whitenoise==6.2.0
