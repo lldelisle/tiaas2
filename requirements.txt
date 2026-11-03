@@ -9,3 +9,4 @@ pycryptodome==3.19.1
 factory_boy
 whitenoise==6.2.0
 sentry-sdk==2.14.0
+setuptools<82
